@@ -1,0 +1,170 @@
+.body {
+    font-family: 'Open Sans', sans-serif;
+}
+.menubar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.logo {
+    width: 170px;
+    height: 170px;
+    margin-top: -60px;
+    margin-bottom: -60px;
+}
+.link {
+    margin: 0px 20px;
+}
+.image {
+    position: absolute;
+    bottom: -100px; /* bottom space */
+    margin-left: 380px;
+}
+.image img {
+    display: block;
+}
+.container1 {
+    display: flex;
+    justify-content: space-between;
+}
+.margin {
+    width: 300px;
+    height: 300px;
+    margin-left: 100px;
+    margin-bottom: 300px;
+    padding-top: 70px;
+}
+.tq {
+    display: flex;
+    justify-content: space-between;
+}
+.rightbox {
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+.tqtwo {
+    width: 90px;
+    display: flex;
+    justify-content: space-between;
+ 
+}
+.btn-group{
+    width: 300px;
+}
+.bg {
+    background-color: #6BBA62;
+}
+.container2 {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+}
+.leftcontainer2 {
+    width: 300px;
+    height: 280px;
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-right: 200px;
+    background-color: #E8F4C0;
+    padding: 30px 30px;
+}
+.bordernone {
+    width: 200px;
+    height: 120px;
+    border: 1px solid black;
+    border-top: none;
+    border-bottom: none;
+    padding: 1px 10px;
+}
+.yellow {
+    color: yellow;
+}
+.rightcon {
+    width: 30px;
+    height: 120px;
+    padding: 7px 10px;
+}
+.font {
+    color: red;
+}
+.writereview {
+    margin-top: 30px;
+    margin-left: 100px;
+}
+.btn-light {
+    background-color: #ffff;
+}
+.rightcontainer2 {
+    width: 300px;
+    height: 280px;
+    margin-top: 10px;
+}
+.tqheight {
+    display: flex;
+    justify-content: space-between;
+    height: 20px;
+}
+.sp {
+    margin: 30px 30px;
+}
+.end {
+    display: flex;
+    justify-content: flex-end;
+}
+.btn-outline-dark {
+    margin-right: 10px;
+}
+.card-img-top {
+    width: 194px;
+    height: 196px;
+    margin: 0 auto;
+}
+.card-body {
+    text-align: center;
+}
+.btn-outline-secondary {
+    width: 180px;
+    margin: 20px 20px;
+}
+.container6 {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px auto;
+ }
+ .logoiconboxleft {
+    width: 20%;
+    margin-top: -20px;
+    margin-left: 20px;
+ }
+ .logotwo {
+    width: 170px;
+    height: 170px;
+ }
+ .iconfive{
+    color: green;
+ }
+ .logoiconbox {
+    width: 20%;
+    font-size: smaller;
+    margin-top: 50px;
+    margin-left: 40px;
+ }
+ .footer {
+    width: 100%;
+    height: 20px;
+    background-color: lightgreen;
+    text-align: center;
+ }
+
+ .remove{
+    text-decoration: none;
+ }
+ .hover:hover{
+    color: green;
+    background-color: lightcyan;
+ }
+
+ 
